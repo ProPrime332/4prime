@@ -1,0 +1,17 @@
+{
+  "name": "chill-stashon",
+  "version": "1.0.0",
+  "description": "kool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "random-puppy": "^1.1.0"
+  }
+}
